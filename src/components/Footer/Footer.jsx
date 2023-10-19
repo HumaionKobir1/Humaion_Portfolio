@@ -6,7 +6,6 @@ import { AiFillGithub, AiFillLinkedin, AiOutlineArrowUp } from "react-icons/ai";
 import { BsFacebook, BsSlack } from "react-icons/bs";
 import { FiMail, FiPhoneCall } from "react-icons/fi";
 import { Slide, Zoom, Fade } from "react-awesome-reveal";
-import emailjs from '@emailjs/browser';
 import ContactUs from "../Test/test";
 
 const Footer = () => {
@@ -41,7 +40,7 @@ const Footer = () => {
             <h1>Address:</h1>
           </Slide>
           <Slide direction="left">
-            <p>5/4, Sollimollah Road, Block-D, Mohammadpur,Dhaka,Bangladesh</p>
+            <p>Gazipur Chowrasta, Dhaka, Bangladesh</p>
           </Slide>
         </div>
         <div className="links">
@@ -53,7 +52,7 @@ const Footer = () => {
               <FiPhoneCall />
             </span>
             <Slide direction="left">
-              <a href="tel:+8801704987382">+8801704987382</a>
+              <a href="tel:+8801869341853">+8801869341853</a>
             </Slide>
           </div>
           <div>
@@ -63,7 +62,7 @@ const Footer = () => {
               </span>
             </Slide>
             <Slide>
-              <a href="mailto:md.masum0058@gmail.com">md.masum0058@gmail.com</a>
+              <a href="mailto:humaionkobir341@gmail.com">humaionkobir341@gmail.com</a>
             </Slide>
           </div>
         </div>
@@ -74,21 +73,21 @@ const Footer = () => {
           <div className="icons">
             <Zoom>
               <span>
-                <a href="https://github.com/developerMasum">
+                <a href="https://github.com/HumaionKobir1">
                   <AiFillGithub />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="https://www.linkedin.com/in/md-masum-b2a551280/">
+                <a href="https://www.linkedin.com/in/humaion-kobir-072503209/">
                   <AiFillLinkedin />
                 </a>
               </span>
             </Zoom>
             <Zoom>
               <span>
-                <a href="https://www.facebook.com/f.adnan.masum/">
+                <a href="https://www.facebook.com/humaionkobir.humaionkobir/">
                   <BsFacebook />
                 </a>
               </span>

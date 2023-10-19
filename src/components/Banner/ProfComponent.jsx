@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 import { AiFillMail,  } from "react-icons/ai";
-import { FaFacebook, FaGitAlt, FaLinkedinIn } from "react-icons/fa";
+import { FaFacebook,  FaGithub, FaLinkedinIn } from "react-icons/fa";
 import { Slide } from "react-awesome-reveal";
 import Typewriter from "typewriter-effect";
 import img from '../../Img/WhatsApp Image 2023-06-26 at 20.41.59.png'
@@ -14,7 +14,7 @@ const ProfComponent = () => {
         <Texts>
           <h4 className="text-xl">
             Hello there ... <span className="green text-xl "></span>
-            <h6 className="text-5xl font-thin mb-0">Masum</h6>
+            <h6 className="text-5xl font-thin mb-0">Humaion Kobir</h6>
           </h4>
 
           <p className=" text-lg flex gap-3 pb-2">
@@ -68,7 +68,7 @@ const ProfComponent = () => {
               </span>
               <span>
                 <a href="https://github.com/HumaionKobir1">
-                  <FaGitAlt />
+                  <FaGithub />
                 </a>
               </span>
             </div>

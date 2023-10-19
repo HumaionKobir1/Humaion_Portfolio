@@ -7,13 +7,13 @@ import styled from "styled-components";
 let data = [
   {
     img: "https://i.ibb.co/Hhv2BQ4/project-1.png",
-    disc: "This is My team project. This is mainly uses online trading and business. This website user can trade, analysis andsee trading view chartin this website. there have 2 type contact service. If anyone visit our site without account he can contact useby usin gmail service.There have two type dashboards with different section.User Dashboard and Admin Dashboard. admin: humaionkobir5001@gmail.com, pass: 177683",
+    disc: "This is My team project. This is mainly uses online trading and business. This website user can trade, analysis andsee trading view chartin this website. admin: humaionkobir5001@gmail.com, pass: 177683",
     liveLink: "https://online-trading-and-business-five.vercel.app/",
     clientGit: "https://github.com/fensami/online_trading_and_business"
   },
   {
     img: "https://i.ibb.co/QrnzSrg/project-2.png",
-    disc: "It is basically a summer camp web application of Dance Learning School. Here shows what Class and Instructors provided for Students. Student can Enrolled classes with manual payment system and get better ui/ux design. A instructor can make classes, see them and update them, An admin can approve/deny and send feedback, and student can payment",
+    disc: "It is basically  Dance Learning School. Here shows what Class and Instructors provided for Students. Student can Enrolled classes with manual payment system and get better ui/ux design. A instructor can make classes, see them and update them, An admin can approve/deny and send feedback, and student can payment",
     liveLink: "https://dance-a96c2.web.app/",
     clientGit: "https://github.com/HumaionKobir1/dance-learning-school-client",
     serverGit: "https://github.com/HumaionKobir1/dance-learning-school-server",
