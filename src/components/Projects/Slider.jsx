@@ -6,20 +6,20 @@ import styled from "styled-components";
 
 let data = [
   {
-    img: "https://ibb.co/HnQXc6z",
+    img: "https://i.ibb.co/jgFHCmM/project-1.png",
     disc: "This is My team project. This is mainly uses online trading and business. This website user can trade, analysis andsee trading view chartin this website. admin: humaionkobir5001@gmail.com, pass: 177683",
     liveLink: "https://online-trading-and-business-five.vercel.app/",
     clientGit: "https://github.com/fensami/online_trading_and_business"
   },
   {
-    img: "https://i.ibb.co/QrnzSrg/project-2.png",
+    img: "https://i.ibb.co/vqXQJvY/project-2.png",
     disc: "It is basically  Dance Learning School. Here shows what Class and Instructors provided for Students. Student can Enrolled classes with manual payment system and get better ui/ux design. A instructor can make classes, see them and update them, An admin can approve/deny and send feedback, and student can payment",
     liveLink: "https://dance-a96c2.web.app/",
     clientGit: "https://github.com/HumaionKobir1/dance-learning-school-client",
     serverGit: "https://github.com/HumaionKobir1/dance-learning-school-server",
   },
   {
-    img: "https://i.ibb.co/dmDmHWM/project-3.png",
+    img: "https://i.ibb.co/xHy89rz/project-3.png",
     disc: "Here user can learn favorite recipes from favorite chefs.User Can Registration, Login, See Recipe when click View recipe button. This website has a generator PDF button on the blog page and user can download the blog page. and other new futures.",
     liveLink: "https://chef-recipe-hunter-2dfd9.web.app/",
     clientGit: "https://github.com/HumaionKobir1/chef-recipe-hunter-client",
@@ -27,7 +27,7 @@ let data = [
   },
 
   {
-    img: "https://i.ibb.co/L1tXDzY/project-4.png",
+    img: "https://i.ibb.co/DGJTytD/project-4.png",
     disc: "EHeros is a Frontend Employee Management System that allows users to efficiently manage employee records and perform various administrative tasks. I have created an employee category section on the homepage. where Add search and filter options to help users find specific employees quickly.",
     liveLink: "https://ehero-1ceb0.web.app/",
     clientGit: "https://github.com/HumaionKobir1/EHeros",
@@ -35,14 +35,14 @@ let data = [
   },
 
   {
-    img: "https://i.ibb.co/rt1B07s/project-5.png",
+    img: "https://i.ibb.co/MBv60L0/project-5.png",
     disc: "It is basically an Ecommerce web application of Electronic Toy Market. MERN Stack project for Electronic toy buy and sale Ecommerce Web application.",
     liveLink: "https://toy-market-e6758.web.app/",
     clientGit: "https://github.com/HumaionKobir1/toy-market-client",
     serverGit: "https://github.com/HumaionKobir1/toy-market-server",
   },
   {
-    img: "https://i.ibb.co/zffXxv7/project-6.png",
+    img: "https://i.ibb.co/JvC45wV/project-6.png",
     disc: "Aircnc allows individuals to list their homes, apartments, rooms, or even unique spaces for short-term rentals. Travelers can search for accommodations based on location, dates, and other preferences. Once they find a suitable listing, they can book it through the Airbnb platform.",
     liveLink: "https://aircnc-client-5c97a.web.app/",
     clientGit: "https://github.com/HumaionKobir1/aircnc-client",
