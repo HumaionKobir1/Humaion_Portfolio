@@ -9,7 +9,7 @@ const Header = () => {
     <Container bar={bar}>
         <Logo>
             <span className='green'><GiCandleFlame/> </span>
-           <h6 className='green'>masum.dev</h6>
+           <h6 className='green'>HumaionKobir.dev</h6>
         </Logo>
         <Nav bar={bar}>
             <span><a href="#home">Home</a></span>

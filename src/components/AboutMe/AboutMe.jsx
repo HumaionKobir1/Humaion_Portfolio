@@ -55,7 +55,7 @@ const About = () => {
         <div className="flex flex-col-reverse justify-evenly md:flex-row items-center">
          <Profile>
          <div className="w-full md:w-1/2 md:mr-16">
-            <h1 className="text-2xl font-semibold text-[#01be96]">HumaionKobir.Dev</h1>
+            <img src={img} alt="" />
           </div>
          </Profile>
 

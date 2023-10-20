@@ -6,7 +6,7 @@ import styled from "styled-components";
 
 let data = [
   {
-    img: "https://i.ibb.co/Hhv2BQ4/project-1.png",
+    img: "https://ibb.co/HnQXc6z",
     disc: "This is My team project. This is mainly uses online trading and business. This website user can trade, analysis andsee trading view chartin this website. admin: humaionkobir5001@gmail.com, pass: 177683",
     liveLink: "https://online-trading-and-business-five.vercel.app/",
     clientGit: "https://github.com/fensami/online_trading_and_business"
