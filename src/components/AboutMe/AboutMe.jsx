@@ -82,7 +82,7 @@ const About = () => {
             </div>
 
             <div className="mt-4 md:mt-5 text-start md:text-left w-full md:w-4/5">
-             hey, I'm Masum. I want to gain confidence and fame using
+             hey, I'm Humaion kobir. I want to gain confidence and fame using
               my potential in this position and express my innovative creative
               skills for self and company growth. I am a hardworking and quick
               learner person. I believe hard work is the only way to success.
