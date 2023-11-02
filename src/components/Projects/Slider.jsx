@@ -48,6 +48,13 @@ let data = [
     clientGit: "https://github.com/HumaionKobir1/aircnc-client",
     serverGit: "https://github.com/HumaionKobir1/aircnc-server",
   },
+  {
+    img: "https://i.ibb.co/f1phnWK/project7.png",
+    disc: "It is a college admission booking website. Here the student can apply for admission in the university of his choice and he can view his booking details.",
+    liveLink: "https://collage-admission-2d5e7.web.app/",
+    clientGit: "https://github.com/HumaionKobir1/collegeBookingHub-client",
+    serverGit: "https://github.com/HumaionKobir1/collegeBookingHub-sever",
+  },
 ];
 
 var settings = {
