@@ -42,7 +42,7 @@ const ProfComponent = () => {
           </p>
           <div className="flex gap-3 pt-0 mt-0">
             <button>
-            <a href={cv}> Download CV </a>
+            <a href={cv}> Download Resume </a>
               </button>
             <button>
             <a href="tel:+8801869341853">Let's talk</a>
